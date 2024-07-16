@@ -555,7 +555,7 @@ button {
 
 .slider {
     display: flex;
-    top: 120vh;
+    top: 110vh;
     width: 90%;
     height: 450px;
     left: 50%;
@@ -892,7 +892,7 @@ button {
 }
 
 #image1 {
-    background-image: url("../asset/corte2.jpg");
+    background-image: url('asset/corte2.jpg');
     width: 100%;
     height: 500px;
     background-size: cover;
@@ -900,7 +900,7 @@ button {
 }
 
 #image2 {
-    background-image: url("../asset/corte3.jpg");
+    background-image: url('asset/corte3.jpg');
     width: 100%;
     height: 500px;
     background-size: cover;
@@ -908,7 +908,7 @@ button {
 }
 
 #image3 {
-    background-image: url("../asset/corte4.jpg");
+    background-image: url('asset/corte4.jpg');
     width: 100%;
     height: 500px;
     background-size: cover;
@@ -916,7 +916,7 @@ button {
 }
 
 #image4 {
-    background-image: url("../asset/corte5.jpg");
+    background-image: url('asset/corte5.jpg');
     width: 100%;
     height: 500px;
     background-size: cover;
@@ -924,7 +924,7 @@ button {
 }
 
 #image5 {
-    background-image: url("../asset/corte6.jpg");
+    background-image: url('asset/corte6.jpg');
     width: 100%;
     height: 500px;
     background-size: cover;
@@ -932,7 +932,7 @@ button {
 }
 
 #image6 {
-    background-image: url("../asset/corte7.jpg");
+    background-image: url('asset/corte7.jpg');
     width: 100%;
     height: 500px;
     background-size: cover;
@@ -940,7 +940,7 @@ button {
 }
 
 #image7 {
-    background-image: url("../asset/corte8.jpg");
+    background-image: url('asset/corte8.jpg');
     width: 100%;
     height: 500px;
     background-size: cover;
